@@ -5,8 +5,6 @@ import json
 from flask import Flask, jsonify
 
 # part 1: building blockchain
-
-
 class Blockchain:
 
     def __init__(self):
