@@ -1,7 +1,7 @@
 // TimmyCoin ICO
 
 // Compiler Version
-pragma solidity ^0.8.0;
+pragma solidity ^0.4.11;
 
 contract timmycoin_ico {
     // Introducing total number of TimmyCoins to be circulated
